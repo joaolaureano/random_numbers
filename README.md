@@ -21,9 +21,9 @@ pseudo-random number generation algorithms and basic JavaFX charting.
 
 ## Versions
 
-- **[`v1.0-original`](../../releases/tag/v1.0-original)** — the original
-  version submitted for the assignment, kept unmodified as a historical
-  reference/tag.
+- **[`v1.0-original`](../../tree/v1.0-original)** — the original version
+  submitted for the assignment, kept unmodified as a historical reference
+  branch/tag.
 - **Current version (this branch/`main`)** — the same project with the bugs
   described below fixed.
 
