@@ -21,7 +21,7 @@ geração de números pseudoaleatórios e o uso básico de gráficos com JavaFX.
 
 ## Versões
 
-- **[`v1.0-original`](../../tree/v1.0-original)** — a versão original
+- **[`V1`](../../tree/V1)** — a versão original
   entregue no trabalho, mantida sem alterações como referência histórica
   (branch/tag).
 - **Versão atual (este branch/`main`)** — o mesmo projeto com os bugs
