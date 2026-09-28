@@ -9,7 +9,8 @@ public class Random{
         previous_number = seed;
     }
     public float next(){
-        return generateNext(previous_number, a_multiplier, c_sum, m_modulus);
+        previous_number = generateNext(previous_number, a_multiplier, c_sum, m_modulus);
+        return previous_number;
     }
     private float generateNext(float previous_number,float a_multiplier,float c_sum,float m_modulus){
         return (a_multiplier * previous_number + c_sum) % m_modulus / m_modulus;
